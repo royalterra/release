@@ -11,19 +11,14 @@
  *
  *   Author: Jacob Maldonado
  *           
- *   License: Apache 2
+ *   
  *
  *   Configuration:
  *   Use hreflang only if you like to be target only from users with a specific language  
  *   The Search Engines will use hreflang language target for show in the search please Setup
  *   Your own SEO the words include here are only a Example
- *   Add the following lines starting with $a to your .htconfig.php file 
+ *   Pleaase read Install for the lines in  your .htconfig.php file 
  *
- *  $a->config['metatag']['hreflang'] = '<link rel="alternate" href="https://blablanet.com/" hreflang="en" />';
- *  $a->config['metatag']['description'] = '<meta name="description" content="The Super Hubzilla Network .../>';
- *  Setup Your Index Target for the Robots google Up for more Information.
- *  $a->config['metatag']['robots'] = '<meta name="robots" content="index" />';
- *  $a->config['metatag']['keywords'] = '<meta name="keywords" content="friends, family, vpn, blogs, photos, videos, files, directory" />';
  */
 
 
